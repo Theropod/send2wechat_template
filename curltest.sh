@@ -1,0 +1,1 @@
+curl -i -H "Content-Type: application/json" -X POST -d '{"time":"02020202","subject":"hello world"}' http://127.0.0.1:5000/send2wechat/api/v1/mstodo
